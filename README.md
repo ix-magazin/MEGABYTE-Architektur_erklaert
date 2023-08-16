@@ -1,4 +1,4 @@
-# MEGABYTE_Architektur
+# MEGABYTE-Architektur erklärt
 Repository zum [Wissens-Artikel](https://www.heise.de/select/ix/2023/10/2319911593781637963) von Danny Gerst, erschienen im [iX Magazin 10/2023](https://www.heise.de/select/ix/2023/10).
 
 # iX-tract
